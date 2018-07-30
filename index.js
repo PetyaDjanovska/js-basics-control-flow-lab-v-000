@@ -9,5 +9,5 @@ function scuberGreetingForFeet(input){
     else {
       result = 'No can do.'
     }
-    result;
+    return result;
 }
