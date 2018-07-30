@@ -11,3 +11,6 @@ function scuberGreetingForFeet(input){
     }
     return result;
 }
+
+input >= 2000 && input < 2500
+2000 <= input < 2500
