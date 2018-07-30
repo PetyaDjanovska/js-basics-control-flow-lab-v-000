@@ -1,5 +1,5 @@
 // Write your code in this file!
-function scuberGreetingForFeet(input){
+function scuberGreetingForFeet(input) {
   let result;
     if (input <= 400){
       result = "This one is on me!";
@@ -12,7 +12,7 @@ function scuberGreetingForFeet(input){
     return result;
 }
 
-function ternaryCheckCity(input){
+function ternaryCheckCity(input) {
   return (input === 'NYC')? "Ok, sounds good." : "No go."
 }
 
