@@ -2,8 +2,8 @@
 function scuberGreetingForFeet(input){
   let result;
   if (input <= 400){
-    result = "This oneis on me!";
+    result = "This one is on me!";
   } else if ( 400 < input <= 2000 ) {
-      result = "This will be $30"
+      result = "I will gladly take your thirty bucks."
     }
 }
